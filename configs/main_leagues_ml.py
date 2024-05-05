@@ -1,5 +1,6 @@
 """Configuration file for bettor based on Gradient Boosting Classifier."""
 
+
 from sklearn.compose import make_column_transformer
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.impute import SimpleImputer

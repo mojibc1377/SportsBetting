@@ -1,16 +1,16 @@
 _commit: 0.8.2
-_src_path: gh:georgedouzas/copier-pdm-nox
-author_email: gdouzas@icloud.com
-author_fullname: Georgios Douzas
-author_username: georgedouzas
-copyright_date: '2019'
-copyright_holder: Georgios Douzas
-copyright_holder_email: gdouzas@icloud.com
+_src_path: gh:MojiBc
+author_email: mojis@icloud.com
+author_fullname: Mojtaba
+author_username: Mojtaba
+copyright_date: '2024'
+copyright_holder: MojMoj
+copyright_holder_email: mojis@icloud.com
 copyright_license: MIT License
 project_description: Python sports betting toolbox.
 python_package_distribution_name: sports-betting
 python_package_import_name: sportsbet
 python_versions: '>=3.9, <3.11'
 repository_name: sports-betting
-repository_namespace: georgedouzas
+repository_namespace: MojiBc
 
